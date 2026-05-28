@@ -1,7 +1,7 @@
 # Karyon Bio Candidate Technical Assignment
 ## Mini-Pipeline for Discovery and Prioritization of Cell-Type-Specific Biomarkers in Human Liver Fibrosis
 
-**Candidate:** Umesh Linga · **Location:** Indianapolis, Indiana · **Date:** May 2026 · **Submission:** Kiran.adhikari@karyon.bio
+**Candidate:** Umesh Linga · **Location:** Indianapolis, Indiana · **Submission:** Kiran.adhikari@karyon.bio
 
 ---
 
