@@ -1,0 +1,40 @@
+# Data
+data/raw/
+data/extracted/
+*.tar
+*.tar.gz
+*.mtx
+*.mtx.gz
+
+# Processed objects (regeneratable from raw)
+results/processed/*.h5ad
+results/processed/
+
+# Python / virtualenv / caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / dist
+build/
+dist/
+*.so
+
+# Large optional outputs
+*.h5
+*.h5ad
+*.zarr
