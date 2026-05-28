@@ -194,8 +194,3 @@ Approximate wall-clock on a 16 GB laptop: QC ~1 min, integration (Harmony 5 iter
   the trade-off and how to validate.
 
 ---
-
-## Contact
-
-Prepared for Karyon Bio technical screening.
-Umesh Linga · Indianapolis, Indiana
